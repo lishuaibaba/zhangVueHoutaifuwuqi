@@ -1,0 +1,2 @@
+webpackJsonp([8],{"4Zld":function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\r\n    seckill\r\n")])},staticRenderFns:[]};var u=t("VU/8")({components:{},data:function(){return{}},methods:{},mounted:function(){}},r,!1,function(n){t("O9UI")},null,null);e.default=u.exports},O9UI:function(n,e){}});
+//# sourceMappingURL=8.85543ac755dc00231a9d.js.map

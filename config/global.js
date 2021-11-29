@@ -5,7 +5,7 @@ exports.dbConfig = {
     user: 'root',//数据库用户名
     password: 'root',//数据库用户密码
     port: 3306,
-    database: 'usmall' // 数据库名字
+    database: '123123' // 数据库名字 改成
 }
 
 // token过期时间 (分钟单位)
